@@ -1,4 +1,4 @@
-could
+
 require 'pry'
 
 def prying_into_the_method
